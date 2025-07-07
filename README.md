@@ -1,6 +1,6 @@
-# AI Voice Assistant (OIBSIP Internship Project)
+# AI Voice Assistant 
 
-A Python-based voice assistant that uses speech recognition, text-to-speech, OpenAI GPT for AI conversations, weather updates, Gmail API for email management, and a self-learning system. Developed for the OIBSIP Internship Program.
+A Python-based voice assistant that uses speech recognition, text-to-speech, OpenAI GPT for AI conversations, weather updates, Gmail API for email management, and a self-learning system. 
 
 ## Features
 - Voice-controlled commands (speech-to-text and text-to-speech)
@@ -28,8 +28,8 @@ OIBSIP_project_voice_assistant/
 ## Setup
 1. **Clone the repository**
    ```bash
-   git clone < https://github.com/ROSHNIFATIMA/OIBSIP_voice_assistant.git >
-   cd OIBSIP_project_voice_assistant
+   git clone https://github.com/ROSHNIFATIMA/VOICE_ASSISTANT
+   cd VOICE_ASSISTANT
    ```
 2. **Create and activate a virtual environment**
    ```bash
